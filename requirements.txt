@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pymongo
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
+firebase-admin
+email-validator
+python-multipart
